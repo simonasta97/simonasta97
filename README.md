@@ -10,7 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/moonikaa_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moonikaa_a" height="30" width="40" /></a>
-<a href=”https://www.linkedin.com/in/simona-milcheva-56b6bb248/"><img align=”left” src=”https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt=”moonikaa_a” height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/simona-milcheva-56b6bb248/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
